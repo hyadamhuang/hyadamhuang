@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Adam Huang @hyadamhuang
 - 👀 I’m interested in medical image analysis and data science
-- 🌱 I’m currently learning instance segmentation and NLP
+- 🌱 I’m currently learning image segmentation and NLP using deep learning
 - 💞️ I’m looking to collaborate on computer vision and NLP
 - 📫 How to reach me adamhuan@gmail.com
 
